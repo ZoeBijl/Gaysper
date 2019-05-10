@@ -39,3 +39,7 @@ There are currently sixteen flags included:
 - trans (transgender)
 
 You can request new cats via a [new issue on this repo](https://github.com/ZoeBijl/Gaysper/issues/new) or [message me on Mastodon](https://queer.garden/@moiety).
+
+## File formats
+
+The repository includes PNG and SVG exports which have both been optimised. You can find the original artwork in the included Sketch file.
