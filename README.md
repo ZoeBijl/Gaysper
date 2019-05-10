@@ -2,7 +2,7 @@
 
 A collection of sixteen pride flags represented as very happy ghosts.
 
-![All of the various pride flags included as ghosts](https://zoebijl.github.io/meta/Banner.png)
+![All of the various pride flags included as ghosts](https://zoebijl.github.io/Gaysper/meta/Banner.png)
 
 ## A commissioned work
 
