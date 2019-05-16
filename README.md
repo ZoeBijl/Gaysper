@@ -46,4 +46,4 @@ The repository includes PNG and SVG exports which have both been optimised. You 
 
 ## Credits
 
-All credits for the original Gaysper image go to [Baiily](https://www.redbubble.com/es/people/baiiley/collections/447573-emojis).
+All credits for the original Gaysper image go to [Baiiley](https://www.redbubble.com/es/people/baiiley/collections/447573-emojis).
