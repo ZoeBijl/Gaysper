@@ -43,3 +43,7 @@ You can request new cats via a [new issue on this repo](https://github.com/ZoeBi
 ## File formats
 
 The repository includes PNG and SVG exports which have both been optimised. You can find the original artwork in the included Sketch file.
+
+## Credits
+
+All credits for the original Gaysper image go to [Baiily](https://www.redbubble.com/es/people/baiiley/collections/447573-emojis).
