@@ -29,7 +29,7 @@ There are currently sixteen flags included:
 - autism
 - bi (bisexual)
 - genderfluid
-- gerderqueer
+- genderqueer
 - intersex
 - lesbian
 - enby (non-binary)
@@ -40,7 +40,7 @@ There are currently sixteen flags included:
 - sapphic (a flag for all lesbians)
 - trans (transgender)
 
-You can request new cats via a [new issue on this repo](https://github.com/ZoeBijl/Gaysper/issues/new) or [message me on Mastodon](https://queer.garden/@moiety).
+You can request new ghosts via a [new issue on this repo](https://github.com/ZoeBijl/Gaysper/issues/new) or [message me on Mastodon](https://queer.garden/@moiety).
 
 ## File formats
 
