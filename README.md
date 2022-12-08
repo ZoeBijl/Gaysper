@@ -15,7 +15,7 @@ All credits for the original Gaysper image go to [Baiiley](https://www.redbubble
 A whole bunch of pride flags represented as very happy ghosts!
 
 ![A happy ghost coloured in the trans flag](https://zoebijl.github.io/Gaysper/PNG/Gaysper_Trans.png)
-![A happy ghost coloured in the lesbian flag](https://zoebijl.github.io/Gaysper/PNG/Gaysper_LesbianLipstick.png)
+![A happy ghost coloured in the lesbian flag](https://zoebijl.github.io/Gaysper/PNG/Gaysper_Lesbian.png)
 ![A happy ghost coloured in the pride flag](https://zoebijl.github.io/Gaysper/PNG/Gaysper.png)
 ![A happy ghost coloured in the autism flag](https://zoebijl.github.io/Gaysper/PNG/Gaysper_Autism.png)
 
